@@ -202,9 +202,9 @@ Aplicação Front-end desenvolvida em React Native para clone das principais int
 
 <br>
 
-![16](https://user-images.githubusercontent.com/48495838/76021528-3318e980-5f04-11ea-83a9-c6d0162d3bd3.png)
+![16]()
 
 <br><br><br>
 
-![18](https://user-images.githubusercontent.com/48495838/76151808-bf0f4a80-6097-11ea-88fa-22659513e5ac.png)
-"# ifood" 
+![18]()
+# Desenvolvido Por Rodrigues
