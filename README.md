@@ -80,7 +80,7 @@ Aplicação Front-end desenvolvida em React Native para clone das principais int
 
 <div align="center">
   
-![100](https://user-images.githubusercontent.com/48495838/78052572-b38d0780-7355-11ea-9e64-edaa75705cca.png)
+![100](/Capturar.PNG)
 
 </div>
 
