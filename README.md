@@ -84,7 +84,7 @@ Aplicação Front-end desenvolvida em React Native para clone das principais int
 
 </div>
 
-<br><br>
+<br>
 <br>
 
 ## :mega: ⬇ Abaixo, as principais interfaces:
